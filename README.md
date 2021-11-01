@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarstenCo
 - 👀 I’m interested in artificial intelligence and starting in coding.
-- 🌱 I’m currently learning Git and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Git and Python.
+- 💞️ I’m looking to collaborate on learning experience.
 - 📫 How to reach me ...
 
 <!---
